@@ -1,0 +1,82 @@
+[
+    {
+        "brand": "GitHub Copilot",
+        "category": "ai"
+    },
+    {
+        "brand": "OpenAI",
+        "category": "ai"
+    },
+    {
+        "brand": "Cognition AI",
+        "category": "ai"
+    },
+    {
+        "brand": "Lambda Labs",
+        "category": "ai"
+    },
+    {
+        "brand": "Amazon AWS",
+        "category": "ai"
+    },
+    {
+        "brand": "MiniMax",
+        "category": "ai"
+    },
+    {
+        "brand": "Glean",
+        "category": "ai"
+    },
+    {
+        "brand": "Abacus.AI",
+        "category": "ai"
+    },
+    {
+        "brand": "Hugging Face",
+        "category": "ai"
+    },
+    {
+        "brand": "Tencent AI",
+        "category": "ai"
+    },
+    {
+        "brand": "Heinz",
+        "category": "food"
+    },
+    {
+        "brand": "Alpro",
+        "category": "food"
+    },
+    {
+        "brand": "Yoplait",
+        "category": "food"
+    },
+    {
+        "brand": "Fage",
+        "category": "food"
+    },
+    {
+        "brand": "Philadelphia",
+        "category": "food"
+    },
+    {
+        "brand": "Red Bull",
+        "category": "food"
+    },
+    {
+        "brand": "Kit Kat",
+        "category": "food"
+    },
+    {
+        "brand": "Coca-Cola",
+        "category": "food"
+    },
+    {
+        "brand": "Del Monte",
+        "category": "food"
+    },
+    {
+        "brand": "Stouffer's",
+        "category": "food"
+    }
+]
