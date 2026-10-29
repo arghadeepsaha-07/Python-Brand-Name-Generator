@@ -3,14 +3,10 @@
 A Python command-line application that suggests brand names through interactive category selection.
 
 ## Features
-- **Interactive Menu:** Choose AI/Tech, Food/Beverages, or Fitness.
-- **Random Selection:** Displays 10 brand names from the selected category.
-- **Flexible Input:** Accepts menu numbers and supported category keywords.
-- **JSON History:** Saves selected brand names and categories in `brand_category.json`.
-- **Duplicate Prevention:** Avoids saving identical brand-category records.
 
 ## Technologies
-- Python 3
+
+- Python
 - `random` module
 - `json` module
 
@@ -37,6 +33,7 @@ A Python command-line application that suggests brand names through interactive 
 The application stores selected names and categories in `brand_category.json`. Existing records are loaded before new records are saved.
 
 ## Future Improvements
+
 - Generate original brand names by combining words.
 - Save favorite names separately.
 - View and delete saved records.
